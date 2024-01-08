@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.exe
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.deps.json
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.dll
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\bin\Debug\net5.0\Romain_Paul.pdb
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.dll
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\refint\Romain_Paul.dll
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.pdb
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\Romain_Paul.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Bureau\projet algo\Romain_Paul\Romain_Paul\obj\Debug\net5.0\ref\Romain_Paul.dll
